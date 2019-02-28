@@ -1,0 +1,2 @@
+CLASS = "A"
+print(CLASS)
